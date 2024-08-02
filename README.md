@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @KanniShashankh
+- 💼 Currently working at Autodesk, Ex Microsoft
 - 👀 I’m interested in Competitive Programming, C++/GoLang Development 
 - 🌱 I’m currently exploring MLOPs and Infrastructure Orchestration
 - 💞️ I’m looking to collaborate on Web/NLP/Computer Vision Projects
